@@ -1,3 +1,7 @@
+![Auto Assign](https://github.com/2221251367iman-2221251382sedra/demo-repository/actions/workflows/auto-assign.yml/badge.svg)
+
+![Proof HTML](https://github.com/2221251367iman-2221251382sedra/demo-repository/actions/workflows/proof-html.yml/badge.svg)
+
 # Welcome to your organization's demo respository
 This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
 
